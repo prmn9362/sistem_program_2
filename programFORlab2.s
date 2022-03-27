@@ -2,7 +2,7 @@
 print_format:
 .string "%d\n"
 array:
-.long 138, 42, 13, 16, 4, 85, 21, 17, 18, 15
+.long 1, 10, 38, 98, 27, 125, 41, 78, 93, 149
 array_end:
 .text
 .global main
